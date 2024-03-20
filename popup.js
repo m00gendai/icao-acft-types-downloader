@@ -117,7 +117,7 @@ getTypes.addEventListener("click", async function(){
 				
 				const handle = await window.showSaveFilePicker(options);
 				const writable = await handle.createWritable();
-				await writable.write(myFile);
+				await writable.write(file);
 				await writable.close();
 			});
 		}
