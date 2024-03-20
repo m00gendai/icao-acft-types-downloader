@@ -4,7 +4,7 @@
 	"author": "Marcel Weber",
 	"homepage_url": "https://https://github.com/m00gendai",
 	"description": "Downloads the JSON file of the ICAO 8643 ACFT Types database",
-	"version": "1.0",
+	"version": "1.1",
 	"action": {
 		"default_popup": "popup.html",
 		"default_icon": "128.png"
